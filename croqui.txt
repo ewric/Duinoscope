@@ -1,0 +1,8 @@
+    
+X                   -ajeitar resistores
+X_unkind solution   -checar bug reset_setting function
+X_unnecessary       -ajuste  v_ref
+X                   -fazer o help
+X                   -escolher as melhores cores e o logo
+                    -verificar erro save buffer_aquisition size
+                    -gerar o executável
